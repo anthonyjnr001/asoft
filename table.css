@@ -1,0 +1,9 @@
+body{
+    background-image: url('assets/images/career3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table{
+    border-style:inset;
+    text-align: center;
+}

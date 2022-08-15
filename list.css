@@ -1,0 +1,16 @@
+body{
+    background-image: url('assets/images/bg.jpg');
+}
+h1{
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: aqua;
+    text-align: center;
+}
+ol li{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+    
+  
+}
